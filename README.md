@@ -9,6 +9,7 @@ It fulfils the same role as screwdriver, but differently:
 * Ignores invalid nodes.
 
 recipe:
+
     default:copper_ingot
     group:stick
 
